@@ -2,7 +2,7 @@ Namaskaram EveryOne.
 This is Tejeswar Reddy!!
 
 # 💫 About Me:
-Software Engineer Currently working on MERN Stack from Banglore, India.<br>Studied Mechanical Engineering at Sri Venkateshwara College of Engineering and Technology.<br>Any information related to JavaScript and React/Express/Node is provided and accepted,<br>
+Software Engineer Currently working on MERN Stack from Banglore, India.<br>Studied Mechanical Engineering at Sri Venkateshwara College of Engineering and Technology.<br>Any information related to JavaScript and React/Express/Node is provided and accepted.<br>
 
 
 ## 🌐 Socials:
